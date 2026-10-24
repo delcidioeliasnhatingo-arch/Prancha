@@ -1,0 +1,6 @@
+{
+  "name": "Prancha Académica A2 - Estudo Acústico UEM",
+  "description": "Prancha académica A2 horizontal (594 × 420 mm) com estudo acústico de uma sala de aula na Faculdade de Arquitectura e Planeamento Físico da Universidade Eduardo Mondlane (UEM), cálculo de tempo de reverberação de Sabine e proposta de melhoria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
